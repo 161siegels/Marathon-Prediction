@@ -1,0 +1,1 @@
+{"learning_rate": 0.018000000000000002, "depth": 5, "l2_leaf_reg": 5.5, "min_child_samples": 4, "loss_function": "RMSE"}
